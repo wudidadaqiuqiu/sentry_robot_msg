@@ -35,6 +35,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   msg/BuildStateArray.msg
   msg/RefereeData.msg
   msg/GimbalData.msg
+  msg/IntArray.msg
   "msg/RefereeGameState.msg"
   DEPENDENCIES std_msgs geometry_msgs
 )
