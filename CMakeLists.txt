@@ -38,7 +38,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   msg/IntArray.msg
   msg/AerialCommands.msg
   "msg/RefereeGameState.msg"
-  msg/TargetOffset.msg
+  msg/DecisionPoints.msg
+  # msg/TargetOffset.msg
   DEPENDENCIES std_msgs geometry_msgs
 )
 # uncomment the following section in order to fill in
