@@ -3,8 +3,8 @@
 float64 yaw
 
 uint8 pitch_mode
-uint8 normal_pitch = 0
-uint8 high_pitch = 1
+uint8 NORMAL_PITCH = 0
+uint8 HIGH_PITCH = 1
 
 # 发射频率推荐值
 uint8 autoshoot_rate
