@@ -1,4 +1,5 @@
 int16 offset #0度朝向为底盘正方向
+int16 autoaim_offset
 int16 virtual_mode # 0为没瞄到，瞄到显示ID
 #int16    NO_AIM = 0
 #int16    RED_HERO = 1
