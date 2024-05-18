@@ -1,0 +1,27 @@
+uint8 recovery_buff
+uint8 cooling_buff 
+uint8 defence_buff 
+uint8 vulnerability_buff 
+uint16 attack_buff
+
+uint8 rfid_base
+uint8 rfid_circular_highland_m
+uint8 rfid_circular_highland_e
+uint8 rfid_highland_3_m
+uint8 rfid_highland_3_e
+uint8 rfid_highland_4_m
+uint8 rfid_highland_4_e
+uint8 rfid_energy_mechanism
+uint8 rfid_fly_front_m
+uint8 rfid_fly_end_m
+uint8 rfid_fly_front_e
+uint8 rfid_fly_end_e
+uint8 rfid_outpost
+uint8 rfid_bloodadding
+uint8 rfid_patrol_m
+uint8 rfid_patrol_e
+uint8 rfid_big_resource_island_m
+uint8 rfid_big_resource_island_e
+uint8 rfid_exchange_zone
+uint8 rfid_core
+uint16 rfid_rest

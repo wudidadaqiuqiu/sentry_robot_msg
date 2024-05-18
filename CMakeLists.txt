@@ -38,6 +38,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   msg/IntArray.msg
   msg/AerialCommands.msg
   "msg/RefereeGameState.msg"
+  msg/RefereeRobotData.msg
   msg/DecisionPoints.msg
   msg/ChassisInfo.msg
   # msg/TargetOffset.msg
