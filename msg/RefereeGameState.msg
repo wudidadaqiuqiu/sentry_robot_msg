@@ -10,3 +10,31 @@ uint8    PROGRESS_SELFCHECK = 2
 uint8    PROGRESS_FIVE_SECOND_COUNTDOWN = 3
 uint8    PROGRESS_BATTLE = 4
 uint8    PROGRESS_CALCULATING = 5
+## m代表己方 e代表敌方
+uint8 supply_station_front_m
+uint8 supply_station_in_m
+uint8 supply_zone
+uint8 power_rune_spot_status
+uint8 small_power_rune_status
+uint8 big_power_rune_status
+uint8 circular_highland_m
+uint8 trapezium_highland_3_m
+uint8 trapezium_highland_4_m
+uint8 virtual_shield
+uint16 ennmy_dart_last_time 
+uint8 ennmy_dart_info
+uint8 rfid_core_rmul 
+
+float32 hero_x  
+float32 hero_y  
+float32 engineer_x  
+float32 engineer_y  
+float32 standard_3_x  
+float32 standard_3_y  
+float32 standard_4_x  
+float32 standard_4_y  
+float32 standard_5_x  
+float32 standard_5_y
+
+uint8 dart_remaining_time
+uint16 dart_info
