@@ -2,3 +2,7 @@ RobotBattleState[] data
 int16 game_time
 uint16 robot_id
 uint16 allow_bullet
+
+uint8 power_management_gimbal_output
+uint8 power_management_chassis_output
+uint8 power_management_shooter_output

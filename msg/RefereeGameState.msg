@@ -38,3 +38,11 @@ float32 standard_5_y
 
 uint8 dart_remaining_time
 uint16 dart_info
+
+float32 x
+float32 y
+float32 angle
+
+uint16 exchange_bullet_num
+uint8 remote_exchange_bullet_num
+uint8 remote_exchange_blood_num
