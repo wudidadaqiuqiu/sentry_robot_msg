@@ -1,0 +1,6 @@
+uint32 decide_to_resurrected
+uint32 decide_to_buy_life
+uint32 bullet_num_to_buy
+uint32 requst_remote_buy_bullet_num
+uint32 requst_remote_buy_blood_num
+uint32 reserved_bits

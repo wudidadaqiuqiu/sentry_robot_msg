@@ -40,6 +40,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/RefereeGameState.msg"
   msg/RefereeRobotData.msg
   msg/DecisionPoints.msg
+  msg/SentryRefereeDecision.msg
   msg/ChassisInfo.msg
   # msg/TargetOffset.msg
   DEPENDENCIES std_msgs geometry_msgs
